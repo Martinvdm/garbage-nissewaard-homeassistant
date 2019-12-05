@@ -1,6 +1,6 @@
 # Gemeente Nissewaard garbage collection in Home Assistant
 
-based on https://github.com/vloris/home-assistant/blob/master/custom_components/sensor/twentemilieu.py
+based on https://github.com/vloris/home-assistant/blob/master/custom_components/twentemilieu_custom/sensor.py
 
 Gemeente Nissewaard sensor for garbage collection for Home Assistant
 
